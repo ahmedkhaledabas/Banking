@@ -1,0 +1,14 @@
+C:\Users\Ahmed\source\repos\Task__2\bin\Debug\net6.0\Task__2.exe
+C:\Users\Ahmed\source\repos\Task__2\bin\Debug\net6.0\Task__2.deps.json
+C:\Users\Ahmed\source\repos\Task__2\bin\Debug\net6.0\Task__2.runtimeconfig.json
+C:\Users\Ahmed\source\repos\Task__2\bin\Debug\net6.0\Task__2.dll
+C:\Users\Ahmed\source\repos\Task__2\bin\Debug\net6.0\Task__2.pdb
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\Task__2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\Task__2.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\Task__2.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\Task__2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\Task__2.dll
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\refint\Task__2.dll
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\Task__2.pdb
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\Task__2.genruntimeconfig.cache
+C:\Users\Ahmed\source\repos\Task__2\obj\Debug\net6.0\ref\Task__2.dll
