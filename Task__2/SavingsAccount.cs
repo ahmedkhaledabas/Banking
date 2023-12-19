@@ -14,5 +14,16 @@ namespace Task__2
             rate = InterestRata;
         }
 
+
+        public override bool Deposit(double amount)
+        {
+            amount = amount + (amount * InterestRata / 100);
+            return base.Deposit(amount);
+        }
+
+        public override string ToString()
+        {
+            return $"[Saving Account: {Name}: {Balance}]";
+        }
     }
 }

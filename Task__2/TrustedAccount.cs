@@ -9,14 +9,16 @@ namespace Task__2
     internal class TrustedAccount : Account
     {
         private const double Bouns = 50;
+        private double InterestRata { get; set; }
 
         public TrustedAccount( string name = "Unnamed Account", double balance = 0, double rate = 0) : base(name, balance)
         {
-
+            InterestRata = rate;
         }
 
         public override bool Deposit(double amount)
         {
+            amount = amount + (amount * InterestRata / 100);
             if (amount < 0)
                 return false;
         //The Trust account deposit works just like a savings account deposit.
@@ -50,6 +52,11 @@ namespace Task__2
             {
                 return false;
             }
+        }
+
+        public override string ToString()
+        {
+            return $"[Trusted Account: {Name}: {Balance}]";
         }
     }
 }

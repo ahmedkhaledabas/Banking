@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Task__2
 {
 
-    internal class CheckingAccount : Account
+    internal class CheckingAccount : SavingsAccount
     {
         const double Fee = 1.50;
 
@@ -20,15 +20,8 @@ namespace Task__2
 
         public override bool Withdraw(double amount)
         {
-            if (Balance - amount >= 0)
-            {
-                Balance -= (amount + Fee);
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            amount += Fee;
+            return base.Withdraw(amount);
         }
     }
 }
