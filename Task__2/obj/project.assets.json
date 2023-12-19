@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\Task__2.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Task__2\\Task__2.csproj",
       "projectName": "Task__2",
-      "projectPath": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\Task__2.csproj",
+      "projectPath": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Task__2\\Task__2.csproj",
       "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\obj\\",
+      "outputPath": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Task__2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

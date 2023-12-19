@@ -26,7 +26,7 @@ namespace Task__2
             this.Balance = balance;
         }
 
-        public bool Deposit(double amount)
+        public virtual bool Deposit(double amount)
         {
             if (amount < 0)
                 return false;
@@ -37,7 +37,7 @@ namespace Task__2
             }
         }
 
-        public bool Withdraw(double amount)
+        public virtual bool Withdraw(double amount)
         {
             if (Balance - amount >= 0)
             {

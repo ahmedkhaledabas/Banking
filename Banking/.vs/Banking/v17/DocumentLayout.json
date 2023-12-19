@@ -1,45 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ahmed\\source\\repos\\Banking\\",
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Banking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DCA979C-3C9C-4672-AAD7-F41E657A04FE}|..\\ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\ahmed\\source\\repos\\banking\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\checkingutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\trustedaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\trustedutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}|..\\Task__2\\Task__2.csproj|c:\\users\\ahmed\\source\\repos\\task__2\\savingutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93685302-CDAC-4B03-B8E6-6DFAA61DC40B}|Banking.csproj|c:\\users\\ahmed\\source\\repos\\banking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93685302-CDAC-4B03-B8E6-6DFAA61DC40B}|Banking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93685302-CDAC-4B03-B8E6-6DFAA61DC40B}|Banking.csproj|c:\\users\\ahmed\\source\\repos\\banking\\optionmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93685302-CDAC-4B03-B8E6-6DFAA61DC40B}|Banking.csproj|solutionrelative:optionmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93685302-CDAC-4B03-B8E6-6DFAA61DC40B}|Banking.csproj|c:\\users\\ahmed\\source\\repos\\banking\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93685302-CDAC-4B03-B8E6-6DFAA61DC40B}|Banking.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DCA979C-3C9C-4672-AAD7-F41E657A04FE}|..\\ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\ahmed\\source\\repos\\banking\\exceptionhandling\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,153 +16,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SavingUtil.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\SavingUtil.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\SavingUtil.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\SavingUtil.cs",
-              "RelativeToolTip": "..\\Task__2\\SavingUtil.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-17T20:12:46.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TrustedUtil.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\TrustedUtil.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\TrustedUtil.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\TrustedUtil.cs",
-              "RelativeToolTip": "..\\Task__2\\TrustedUtil.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-17T19:49:54.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CheckingUtil.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\CheckingUtil.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\CheckingUtil.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\CheckingUtil.cs",
-              "RelativeToolTip": "..\\Task__2\\CheckingUtil.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-17T19:49:20.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TrustedAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\TrustedAccount.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\TrustedAccount.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\TrustedAccount.cs",
-              "RelativeToolTip": "..\\Task__2\\TrustedAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAASwAwAAAB5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:35:32.871Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CheckingAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\CheckingAccount.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\CheckingAccount.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\CheckingAccount.cs",
-              "RelativeToolTip": "..\\Task__2\\CheckingAccount.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAcAAAA",
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Banking\\ExceptionHandling\\Test.cs",
+              "RelativeDocumentMoniker": "..\\ExceptionHandling\\Test.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Banking\\ExceptionHandling\\Test.cs",
+              "RelativeToolTip": "..\\ExceptionHandling\\Test.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCYAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:32:34.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SavingsAccount.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\SavingsAccount.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\SavingsAccount.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\SavingsAccount.cs",
-              "RelativeToolTip": "..\\Task__2\\SavingsAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:31:28.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountUtil.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\AccountUtil.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\AccountUtil.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\AccountUtil.cs",
-              "RelativeToolTip": "..\\Task__2\\AccountUtil.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:28:56.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\Account.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\Account.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\Account.cs",
-              "RelativeToolTip": "..\\Task__2\\Account.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAQwEEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:24:55.993Z"
+              "WhenOpened": "2023-12-18T21:45:49.433Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Task__2\\Program.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Task__2\\Program.cs",
-              "RelativeToolTip": "..\\Task__2\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAowCwAAAA8AAAA",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Banking\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Banking\\ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "..\\ExceptionHandling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:24:30.814Z",
+              "WhenOpened": "2023-12-18T21:55:58.793Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OptionMenue.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Banking\\OptionMenue.cs",
-              "RelativeDocumentMoniker": "OptionMenue.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Banking\\OptionMenue.cs",
-              "RelativeToolTip": "OptionMenue.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAIwDUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:18:05.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Account.cs",
-              "RelativeDocumentMoniker": "Account.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Account.cs",
-              "RelativeToolTip": "Account.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAywFUAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T19:38:50.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T19:37:07.561Z"
             }
           ]
         }

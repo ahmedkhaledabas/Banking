@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+bHPNg3sqHpVfSF//YODtCfDuvEGqkHF6FHOq2xDbQTuvOe+Xn88mgL3lsO/CpuGpNjpk10KzlvfiQW8B4BDeQ==",
+  "dgSpecHash": "TArXCnQHJhn4DabiX0Lg+kBhd5OdV5FFRIXzVnOi8sbzpFqpQZsLgUd1+jJfIdVnW2i5DO/a+wrvNuHF5+LMBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Banking.csproj",
+  "projectFilePath": "C:\\Users\\Ahmed\\source\\repos\\Banking\\Banking\\Banking.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

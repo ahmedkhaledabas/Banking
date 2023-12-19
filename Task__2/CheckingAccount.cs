@@ -17,11 +17,12 @@ namespace Task__2
 
         //has a fee of $1.50 per withdrawal transaction.Every withdrawal transaction will be assessed this flat fee.
 
-        public bool Withdraw(double amount)
+
+        public override bool Withdraw(double amount)
         {
             if (Balance - amount >= 0)
             {
-                Balance -= (amount+Fee);
+                Balance -= (amount + Fee);
                 return true;
             }
             else

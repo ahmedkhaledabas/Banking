@@ -15,7 +15,7 @@ namespace Task__2
 
         }
 
-        public bool Deposit(double amount)
+        public override bool Deposit(double amount)
         {
             if (amount < 0)
                 return false;
@@ -36,7 +36,7 @@ namespace Task__2
 
 
         //The Trust account withdrawal should only allow 3 withdrawals per year and each of these must be less than 20% of the account balance
-        public bool Withdraw(double amount)
+        public override bool Withdraw(double amount)
         {
 
             // balance = 12000 , amount 2000, b = 2400

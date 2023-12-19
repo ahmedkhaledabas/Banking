@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34321.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Banking", "Banking.csproj", "{93685302-CDAC-4B03-B8E6-6DFAA61DC40B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task__2", "..\Task__2\Task__2.csproj", "{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task__2", "..\Task__2\Task__2.csproj", "{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "..\ExceptionHandling\ExceptionHandling.csproj", "{8DCA979C-3C9C-4672-AAD7-F41E657A04FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CE488E6-D8E4-4A30-87A7-5D7E06CDC3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCA979C-3C9C-4672-AAD7-F41E657A04FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCA979C-3C9C-4672-AAD7-F41E657A04FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCA979C-3C9C-4672-AAD7-F41E657A04FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCA979C-3C9C-4672-AAD7-F41E657A04FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
